@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/static">
+        <file>foo.js</file>
+        <file>foo.css</file>
+        <file>asd/bola.txt</file>
+    </gresource>
+</gresources>
