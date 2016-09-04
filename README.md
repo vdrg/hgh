@@ -1,9 +1,11 @@
 # Haters Gonna Hate
-Sample web app written in C using balde, which stores and shows the ip address and date of all requests made.
+Sample web app written in C using balde, which stores and shows the ip address and the date of each requests made.
 
 ## DON'T USE THIS
 
-This was made just for educational purposes, more specifically, for an assignment in which we had to learn how to deploy a web app.
+This was made just for educational purposes, more specifically, for an assignment in which we had to learn how to deploy a web app with docker. Seriously, it has memory leaks. And the "database" is just a plain text file. Who needs SQL when you have fprintf.
+
+Also, this repo contains the whole balde library. I had to modify it in order to expose the ip addresses of all requests.
 
 ## Deploying Steps
 
